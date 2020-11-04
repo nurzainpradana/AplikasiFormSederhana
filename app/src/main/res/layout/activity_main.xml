@@ -52,6 +52,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/jenis_kelamin_text"/>
             <RadioGroup
+                android:id="@+id/rg_jk"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
