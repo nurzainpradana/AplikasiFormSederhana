@@ -12,4 +12,6 @@
     <string name="perempuan_text">Perempuan</string>
     <string name="simpan_text">Simpan</string>
     <string name="data_anda_text">DATA ANDA</string>
+    <string name="form_data_text">FORM DATA</string>
+    <string name="kembali_text">Kembali</string>
 </resources>

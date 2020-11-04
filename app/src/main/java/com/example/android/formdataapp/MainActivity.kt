@@ -61,4 +61,10 @@ class MainActivity : AppCompatActivity() {
 
         }
     }
+
+    fun kembali(view: View) {
+        // Mengubah Layout Form menjadi visible & layout tampil data menjadi invisible
+        layout_form.visibility = View.VISIBLE
+        layout_tampil_data.visibility = View.INVISIBLE
+    }
 }
