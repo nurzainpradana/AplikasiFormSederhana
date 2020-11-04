@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FormDataApp</string>
+    <string name="nama_text">Nama</string>
+    <string name="nik_text">Nomor Induk Kepegawaian</string>
+    <string name="usia_text">Usia</string>
+    <string name="jenis_kelamin_text">Jenis Kelamin</string>
+    <string name="alamat_text">Alamat</string>
+    <string name="email_text">Email</string>
+    <string name="asal_sekolah_text">Asal Sekolah</string>
+    <string name="kompetensi_yang_dimiliki_text">Kompetensi Yang Dimiliki</string>
+    <string name="laki_laki_text">Laki-Laki</string>
+    <string name="perempuan_text">Perempuan</string>
+    <string name="simpan_text">Simpan</string>
+    <string name="data_anda_text">DATA ANDA</string>
+</resources>
